@@ -1,0 +1,42 @@
+[
+  {
+    "id": "S001",
+    "title": "Building AI Agents with Gemini",
+    "start_time": "10:00",
+    "end_time": "10:30",
+    "location": "Hall A",
+    "tags": ["AI", "agents", "Gemini"]
+  },
+  {
+    "id": "S002",
+    "title": "Cloud Run: From Code to Production",
+    "start_time": "10:30",
+    "end_time": "11:00",
+    "location": "Hall B",
+    "tags": ["cloud", "Google Cloud", "serverless"]
+  },
+  {
+    "id": "S003",
+    "title": "Building Reliable RAG Applications",
+    "start_time": "11:00",
+    "end_time": "11:30",
+    "location": "Hall A",
+    "tags": ["AI", "RAG", "Gemini"]
+  },
+  {
+    "id": "S004",
+    "title": "Kubernetes for Developers",
+    "start_time": "11:15",
+    "end_time": "11:45",
+    "location": "Hall C",
+    "tags": ["cloud", "Kubernetes", "DevOps"]
+  },
+  {
+    "id": "S005",
+    "title": "From Prompts to Intelligent Workflows",
+    "start_time": "11:30",
+    "end_time": "12:00",
+    "location": "Hall B",
+    "tags": ["AI", "agents", "automation"]
+  }
+]
